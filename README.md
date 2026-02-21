@@ -1,5 +1,5 @@
 # Bone Fracture Classification using VGG16 + CBAM + Vision Transformer
-#Research Work for Final Year - NIT Kurukshetra
+#Research Work for Final Year - NIT Kurukshetra.
 This repository contains a hybrid deep-learning architecture that fuses **VGG16**, **CBAM attention**, and a **Vision Transformer (ViT)** for bone fracture classification. The project is designed to be clean, modular, and research-friendly.
 
 ---
